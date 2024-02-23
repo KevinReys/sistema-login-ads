@@ -1,4 +1,4 @@
-# Página inicial de Login - ADS
+# Página inicial de Login - ADS.
 Este é um projeto DEMO simples de uma página de login desenvolvida em HTML, CSS e JavaScript.
 
 ## Descrição
